@@ -1,0 +1,9 @@
+{
+  "name": "late-lunch-fundamentals",
+  "version": "1.0.0",
+  "description": "Coding Bootcamp to learn the fundamentals",
+  "author": "Taylor Klodowski, Missy Wimberly",
+  "dependencies": {
+    "prettier": "^2.0.4"
+  }
+}
